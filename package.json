@@ -18,7 +18,7 @@
   "author": "PJ Eby <pje@telecommunity.com>",
   "license": "ISC",
   "peerDependencies": {
-    "regenerator": "^0.8.0"
+    "regenerator": ">=0.8.0"
   },
   "dependencies": {
     "recast": "^0.10.11",
